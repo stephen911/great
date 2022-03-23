@@ -25,4 +25,5 @@ class Model(object):
                                                                     
                                                                         Attributes:
                                                                                 model (Any): instance variable that holds the model.
-                                                                                
+                                                                                        save_path (str): path to save the model.
+                                                                                        
