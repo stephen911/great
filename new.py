@@ -31,4 +31,6 @@ class Model(object):
                                                                                                             """
                                                                                                             
                                                                                                                 def __init__(self, save_path: str = '', name: str = 'Not Specified'):
-                                                                                                                        
+                                                                                                                                """
+                                                                                                                                        Default constructor for abstract class Model.
+                                                                                                                                        
