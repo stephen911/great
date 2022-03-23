@@ -12,4 +12,5 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 
 class Model(object):
         """
-        
+            Model is the abstract class which determines how a model should be.
+            
