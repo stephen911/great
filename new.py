@@ -14,3 +14,4 @@ class Model(object):
                 Model is the abstract class which determines how a model should be.
                     Any model inheriting this class should do the following.
                     
+                    
