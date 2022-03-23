@@ -36,4 +36,5 @@ class Model(object):
                                                                                                                                 Default constructor for abstract class Model.
                                                                                                                                 
                                                                                                                                         Args:
-                                                                                                                                        
+                                                                                                                                                    save_path(str): path to save the model to.
+                                                                                                                                                    
