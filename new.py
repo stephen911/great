@@ -37,4 +37,7 @@ class Model(object):
                                                                                                                                 
                                                                                                                                         Args:
                                                                                                                                                     save_path(str): path to save the model to.
-                                                                                                                                                    
+                                                                                                                                                                name(str): name of the model given as string.
+                                                                                                                                                                
+                                                                                                                                                                        """
+                                                                                                                                                                        
