@@ -31,3 +31,8 @@ class Model(object):
                                                                                                     trained (bool): True if model has been trained, false otherwise.
                                                                                                         """
                                                                                                         
+                                                                                                            def __init__(self, save_path: str = '', name: str = 'Not Specified'):
+                                                                                                                        """
+                                                                                                                                Default constructor for abstract class Model.
+                                                                                                                                
+                                                                                                                                
