@@ -1,0 +1,2 @@
+"""
+speechemotionrecognition module.
