@@ -23,3 +23,6 @@ class Model(object):
                                                             disk and train the model and evaluate the model to return appropriate
                                                                     measure like accuracy, f1 score, etc.
                                                                     
+                                                                        Attributes:
+                                                                                model (Any): instance variable that holds the model.
+                                                                                
