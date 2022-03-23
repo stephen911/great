@@ -25,4 +25,5 @@ class Model(object):
                                                                 measure like accuracy, f1 score, etc.
                                                                 
                                                                     Attributes:
-                                                                    
+                                                                            model (Any): instance variable that holds the model.
+                                                                            
