@@ -29,4 +29,5 @@ class Model(object):
                                                                                     save_path (str): path to save the model.
                                                                                             name (str): name of the model.
                                                                                                     trained (bool): True if model has been trained, false otherwise.
-                                                                                                    
+                                                                                                        """
+                                                                                                        
