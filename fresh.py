@@ -22,4 +22,5 @@ class Model(object):
                                         `save_model` `train` and `evaluate`. These methods provide the
                                                 functionality to save the model to the disk, load the model from the
                                                         disk and train the model and evaluate the model to return appropriate
-                                                        
+                                                                measure like accuracy, f1 score, etc.
+                                                                
