@@ -18,3 +18,4 @@ class Model(object):
                     1.  Set the model instance variable to the corresponding model class which
                             which will provide methods `fit` and `predict`.
                             
+                            
