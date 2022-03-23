@@ -39,3 +39,4 @@ class Model(object):
                                                                                                                                                     save_path(str): path to save the model to.
                                                                                                                                                                 name(str): name of the model given as string.
                                                                                                                                                                 
+                                                                                                                                                                
