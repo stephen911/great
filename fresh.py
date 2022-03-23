@@ -41,4 +41,5 @@ class Model(object):
                                                                                                                                                                 
                                                                                                                                                                         """
                                                                                                                                                                                 ~ Place holder for model
-                                                                                                                                                                                
+                                                                                                                                                                                        self.model = None
+                                                                                                                                                                                        
