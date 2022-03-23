@@ -15,4 +15,5 @@ class Model(object):
                     Any model inheriting this class should do the following.
                     
                         1.  Set the model instance variable to the corresponding model class which
-                        
+                                which will provide methods `fit` and `predict`.
+                                
