@@ -43,4 +43,5 @@ class Model(object):
                                                                                                                                                                                 ~ Place holder for model
                                                                                                                                                                                         self.model = None
                                                                                                                                                                                                 ~ Place holder on where to save the model
-                                                                                                                                                                                                
+                                                                                                                                                                                                        self.save_path = save_path
+                                                                                                                                                                                                        
