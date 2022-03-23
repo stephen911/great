@@ -21,4 +21,5 @@ class Model(object):
                                 2.  Should implement the following abstract methods `load_model`,
                                         `save_model` `train` and `evaluate`. These methods provide the
                                                 functionality to save the model to the disk, load the model from the
-                                                
+                                                        disk and train the model and evaluate the model to return appropriate
+                                                        
