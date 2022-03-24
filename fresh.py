@@ -139,4 +139,5 @@
                                 ~ 6. Endgame tables - As good as my AI may be in middle games, given a queen and a king to
                                 ~ attempt checkmate against a lone king, it would be unlikely for it to succeed. This is
                                 ~ because such checkmates, despite being simple, require a large number of combination of
+                                ~ moves to occur, the depth of which my AI would not be able to see. So endgame table allows
                                 )
