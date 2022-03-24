@@ -222,4 +222,5 @@
                                                             ~ only convers few positions. If an opening table with millions of positions could be
                                                             ~ imported to this program, the AI's moves would improve in the beginning. It would also
                                                             ~ give it more variety in terms of the move it plays. Furthermore, using good openings
+                                                            ~ allows the AI to make the best moves in the field it is best at: middle game tactics.
                                                             
