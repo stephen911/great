@@ -191,4 +191,5 @@
                                                         ~        the better off your position is likely to be. For example, if white has an extra
                                                         ~        queen, it has an advantage over black.
                                                         ~    b) Piece-square table values - for each piece, there is a table that stores the best
+                                                        ~        squares that the particular piece should occupy. So if white has a knight at a
                                                         
