@@ -40,6 +40,11 @@
 
 ~Chess board image was taken from lichess website as well.
 ~The images for the pieces came from:
+~https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chess_Pieces_Sprite.svg/2000px-Chess_Pieces_Sprite.svg.png
+
+~AI ideas from:
+~https://chessprogramming.wikispaces.com/
+
 
 
 """
