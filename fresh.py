@@ -69,4 +69,5 @@
                     ~ played. A problem that may arise is the number of postions that need to be
                     ~ evaulated. Even at 3 levels of depth, thousands of positions have to be
                     ~ evaluatd.
-                    
+                    ~ Several methods are used in this program to reduce positions that are searched:
+                        
