@@ -53,6 +53,7 @@
 
 ~ This program is a chess game. The user may play against a friend or the
 ~ computer.
+~
 
 
 """
