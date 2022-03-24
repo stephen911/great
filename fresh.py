@@ -197,4 +197,5 @@
                                                                                                                                                                         def getboard(self):
                                                                                                                                                                                     return self.board
                                                                                                                                                                                     def setboard(self,board):
-                                                                                                                                                                                        )
+                                                                                                                                                                                                self.board = board
+                                                                                                                                                                                                )
