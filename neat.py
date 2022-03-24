@@ -51,6 +51,8 @@
 
 ~Special thanks to professor Saquib for being so amazing.
 
+~ This program is a chess game. The user may play against a friend or the
+~ computer.
 
 
 """
