@@ -176,4 +176,5 @@
                                                     ~ in the same board being evaluated. Instead of evaluating the same board several
                                                     ~ times, the program stores a table of values in a dictionary where the keys are
                                                     ~ the positions. This way, repeated positions can have their evaluations looked up
+                                                    ~ fairly quickly, as the board state is hashed.
                                                     
