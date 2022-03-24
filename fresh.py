@@ -286,4 +286,5 @@
                                                                                                                                                 self.EnP = EnP_Target ~Stores the coordinates of a square that can be targeted by en passant capture.
                                                                                                                                                         self.HMC = HMC ~Half move clock. Stores the number of irreversible moves made so far, in order to help
                                                                                                                                                                 ~detect draw by 50 moves without any capture or pawn movement.
-                                                                                                                                                                
+                                                                                                                                                                        self.history = history ~A dictionary that stores as key a position (hashed) and the value of each of
+                                                                                                                                                                        
