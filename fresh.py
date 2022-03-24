@@ -128,4 +128,5 @@
                                 ~    27/11 02:24       27/11 03:08
                                 ~
                                 
+                                ~Ensure that Pygame is installed
                                 
