@@ -153,4 +153,5 @@
                                     ~Import dependencies:
                                         import pygame ~Game library
                                         from pygame.locals import * ~For useful variables
+                                        import copy ~Library used to make exact copies of lists.
                                         )
