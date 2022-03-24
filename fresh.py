@@ -105,4 +105,5 @@
                             ~    d) A checkmate: a position where this has occured gets a very high point, so that the
                             ~        AI moves towards this if it can. (or avoids it).
                             ~
-                            
+                            ~ There are also several ways in which this program may be improved:
+                                
