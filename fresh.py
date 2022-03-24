@@ -44,3 +44,4 @@
             ~AI ideas from:
                 ~https://chessprogramming.wikispaces.com/
                 
+                
