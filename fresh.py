@@ -106,4 +106,5 @@
                             ~        AI moves towards this if it can. (or avoids it).
                             ~
                             ~ There are also several ways in which this program may be improved:
+                                ~ 1. Move ordering: Given a certain position and the AI needs to search a few layers
                                 
