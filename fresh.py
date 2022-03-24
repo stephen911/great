@@ -53,4 +53,5 @@
                     ~ This program is a chess game. The user may play against a friend or the
                     ~ computer.
                     ~
+                    ~ The game state is mainly stored as a 2D list of strings, and most of the
                     
