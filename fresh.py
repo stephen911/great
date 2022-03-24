@@ -144,3 +144,5 @@
                                                 ~ Winston, P. [MIT OpenCourseWare]. (2010) 6. Search: Games, Minimax,
                                                 ~ and Alpha-Beta. [Video File]. Retrieved from https://www.youtube.com/watch?v=STjW3eH0Cik
                                                 
+                                                ~Special thanks to professor Saquib for being so amazing.
+                                                
