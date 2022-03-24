@@ -151,4 +151,5 @@
                                     ~in this program.
                                     
                                     ~Import dependencies:
+                                        import pygame ~Game library
                                         )
