@@ -173,4 +173,5 @@
                                                     ~ so it would make sense for white to ignore any portion of the tree where black
                                                     ~ has a clear upperhand that it can choose to play.
                                                     ~ 2. Transposition table: Often, two different pathways in a search tree can result
+                                                    ~ in the same board being evaluated. Instead of evaluating the same board several
                                                     
