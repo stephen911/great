@@ -103,4 +103,6 @@
                             ~        side has a set of pawns with the above features their points are slightly lower
                             ~        to indicate a slight disadvantage in such a position.
                             ~    d) A checkmate: a position where this has occured gets a very high point, so that the
+                            ~        AI moves towards this if it can. (or avoids it).
+                            ~
                             
