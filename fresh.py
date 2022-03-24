@@ -186,4 +186,5 @@
                                                     ~
                                                     ~ In order to traverse the search tree as above, the AI needs to know how to evaluate the
                                                     ~ board at any position to decide if white or black has the advantage. My evaluation
-                                                    
+                                                    ~ function currently looks at three main things when evaluating the board:
+                                                        
