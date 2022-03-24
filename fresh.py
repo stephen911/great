@@ -187,4 +187,7 @@
                                                                                             ~play, stores 1.
                                                                                                     self.castling = castling_rights ~A list that contains castling rights for white and
                                                                                                             ~black. Each castling right is a list that contains right to castle kingside and queenside.
-                                                                                                            )
+                                                                                                                    self.EnP = EnP_Target ~Stores the coordinates of a square that can be targeted by en passant capture.
+                                                                                                                            self.HMC = HMC ~Half move clock. Stores the number of irreversible moves made so far, in order to help
+                                                                                                                                    ~detect draw by 50 moves without any capture or pawn movement.
+                                                                                                                                    )
