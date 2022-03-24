@@ -124,4 +124,5 @@
                                 ~ game. Although my AI does make use of an opening table that I recorded for it myself,
                                 ~ it is not able to respond to many opening positions using the table since the table
                                 ~ only convers few positions. If an opening table with millions of positions could be
+                                ~ imported to this program, the AI's moves would improve in the beginning. It would also
                                 
