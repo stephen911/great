@@ -122,4 +122,5 @@
                                 ~ 4. Import of large opening tables: There are databases available online that store
                                 ~ the best moves played by grandmasters at various key opening positions of the chess
                                 ~ game. Although my AI does make use of an opening table that I recorded for it myself,
+                                ~ it is not able to respond to many opening positions using the table since the table
                                 
