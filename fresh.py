@@ -93,4 +93,5 @@
                         ~ function currently looks at three main things when evaluating the board:
                             ~    a) Material for white and black. Each piece has a value and the more pieces you have,
                             ~        the better off your position is likely to be. For example, if white has an extra
+                            ~        queen, it has an advantage over black.
                             
