@@ -68,4 +68,5 @@
                     ~ either side as it traverses up the search tree and chooses the best move to be
                     ~ played. A problem that may arise is the number of postions that need to be
                     ~ evaulated. Even at 3 levels of depth, thousands of positions have to be
+                    ~ evaluatd.
                     
