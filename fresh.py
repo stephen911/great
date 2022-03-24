@@ -223,4 +223,5 @@
                                                             ~ imported to this program, the AI's moves would improve in the beginning. It would also
                                                             ~ give it more variety in terms of the move it plays. Furthermore, using good openings
                                                             ~ allows the AI to make the best moves in the field it is best at: middle game tactics.
+                                                            ~ 5. Better evaluation of positions - The current features evaluated by the evaluation
                                                             
