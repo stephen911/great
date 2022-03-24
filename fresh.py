@@ -81,4 +81,5 @@
                         ~ times, the program stores a table of values in a dictionary where the keys are
                         ~ the positions. This way, repeated positions can have their evaluations looked up
                         ~ fairly quickly, as the board state is hashed.
+                        ~ 3. Opening Book - The opening book is again a dictionary that stores board
                         
