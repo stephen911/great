@@ -232,4 +232,6 @@
                                                             ~ etc. It could also use different evaluation for each game phase. For example, a pawn is
                                                             ~ not worth much at the opening phase of the game but in the endgame it is very important
                                                             ~ and so should be evaulated as a valuable piece.
+                                                            ~ 6. Endgame tables - As good as my AI may be in middle games, given a queen and a king to
+                                                            ~ attempt checkmate against a lone king, it would be unlikely for it to succeed. This is
                                                             )
