@@ -169,4 +169,7 @@
                                                     ~ 1. Alpha-beta pruning: As a result of  evaluating a position it can be found
                                                     ~ that a portion of the search tree can be ignored as no further evaluations can
                                                     ~ guarantee better results. This can happen because white and black area against
+                                                    ~ one another. White plays what is best for it and black plays what is best for it,
+                                                    ~ so it would make sense for white to ignore any portion of the tree where black
+                                                    ~ has a clear upperhand that it can choose to play.
                                                     
