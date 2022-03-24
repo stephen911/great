@@ -59,4 +59,7 @@
                     ~ The GUI takes the current state and displays it on the screen. The GUI allows
                     ~ drag and drop movement of pieces as well as click-click movement.
                     ~
+                    ~ The AI that plays against the human evaluates all possible moves made by either
+                    ~ player up to a certain level of depth. The AI evaluates each position by giving
+                    ~ it a score. The higher the value of the score, the more favourable a position
                     
