@@ -64,4 +64,5 @@
                     ~ it a score. The higher the value of the score, the more favourable a position
                     ~ is for white and the lower the value of the score, the more favourable the
                     ~ position is for black. Knowing that white will try to get the score to be higher
+                    ~ and black will try and get the score to be lower, the AI assumes best play from
                     
