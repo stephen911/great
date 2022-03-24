@@ -205,4 +205,6 @@
                                                             ~ 1. Move ordering: Given a certain position and the AI needs to search a few layers
                                                             ~ deep from it, somehow pre-sorting each move by ranking them in their likelihood of
                                                             ~ being good moves allows for earlier cut-offs to be made by alpha-beta pruning.
+                                                            ~ 2. Iterative Deepening: Instead of going directly to a given depth when searching,
+                                                            ~ the A.I. may evaluate the best move at depth 1, then depth 2, then depth 3, etc.
                                                             
