@@ -254,4 +254,5 @@
                                                                     import random ~Used for making random selections
                                                                     from collections import defaultdict ~Used for giving dictionary values default data types.
                                                                     from collections import Counter ~For counting elements in a list effieciently.
+                                                                    import threading ~To allow for AI to think simultaneously while the GUI is coloring the board.
                                                                     
