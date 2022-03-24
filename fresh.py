@@ -178,4 +178,5 @@
                                                 ~ 3. Piece - This is also used for GUI. A Piece object stores the information about the image
                                                 ~ that a piece should display (pawn, queen, etc.) and the coordinate at which it should be
                                                 ~ displayed on thee chess board.
+                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                                 )
