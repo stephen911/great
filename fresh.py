@@ -150,4 +150,5 @@
                                                 ~ computer.
                                                 ~
                                                 ~ The game state is mainly stored as a 2D list of strings, and most of the
+                                                ~ processing is thus done on a list of strings.
                                                 
