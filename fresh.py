@@ -288,4 +288,5 @@
                                                                                                                                                                 ~detect draw by 50 moves without any capture or pawn movement.
                                                                                                                                                                         self.history = history ~A dictionary that stores as key a position (hashed) and the value of each of
                                                                                                                                                                                 ~these keys represents the number of times each of these positions was repeated in order for this
-                                                                                                                                                                                
+                                                                                                                                                                                        ~position to be reached.
+                                                                                                                                                                                        
