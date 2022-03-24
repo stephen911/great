@@ -34,4 +34,5 @@
     
     ~Ensure that Pygame is installed
     
-    
+    ~GUI inspired by:
+        
