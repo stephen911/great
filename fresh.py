@@ -132,4 +132,5 @@
                                 ~ tactics that often allow it to gain advantage over the opponents that I have tested it
                                 ~ against. However, there are many aspects of playing good chess that it does not
                                 ~ consider: like having good mobility of your pieces (eg a trapped bishop should be bad
+                                ~ for the AI but it doesn't know that). Other aspects include king safety, pawn structure,
                                 )
