@@ -213,4 +213,6 @@
                                                             ~ time limit.
                                                             ~ 3. Better data structure - I believe the structure I have used to keep the state of
                                                             ~ the board (list of a list) may be slowing down accessing its elements or assigning
+                                                            ~ its elements. Improvement in efficiency of my code by changing data structures may
+                                                            ~ potentially improve the speed at which my AI makes its move.
                                                             
