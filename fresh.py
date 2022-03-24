@@ -61,4 +61,6 @@
                     ~
                     ~ The AI that plays against the human evaluates all possible moves made by either
                     ~ player up to a certain level of depth. The AI evaluates each position by giving
+                    ~ it a score. The higher the value of the score, the more favourable a position
+                    ~ is for white and the lower the value of the score, the more favourable the
                     
