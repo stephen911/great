@@ -287,4 +287,5 @@
                                                                                                                                                         self.HMC = HMC ~Half move clock. Stores the number of irreversible moves made so far, in order to help
                                                                                                                                                                 ~detect draw by 50 moves without any capture or pawn movement.
                                                                                                                                                                         self.history = history ~A dictionary that stores as key a position (hashed) and the value of each of
-                                                                                                                                                                        
+                                                                                                                                                                                ~these keys represents the number of times each of these positions was repeated in order for this
+                                                                                                                                                                                
