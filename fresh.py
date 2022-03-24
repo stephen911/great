@@ -166,4 +166,6 @@
                                                 ~ evaulated. Even at 3 levels of depth, thousands of positions have to be
                                                 ~ evaluatd.
                                                 ~ Several methods are used in this program to reduce positions that are searched:
+                                                    ~ 1. Alpha-beta pruning: As a result of  evaluating a position it can be found
+                                                    ~ that a portion of the search tree can be ignored as no further evaluations can
                                                     
