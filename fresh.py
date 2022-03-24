@@ -193,4 +193,6 @@
                                                         ~    b) Piece-square table values - for each piece, there is a table that stores the best
                                                         ~        squares that the particular piece should occupy. So if white has a knight at a
                                                         ~        good square that controls the centre of the board, whereas black has a knight
+                                                        ~        at the corner of the board, the situation is evaluated as being more favourable
+                                                        ~        for white.
                                                         
