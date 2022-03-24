@@ -180,4 +180,5 @@
                                                 ~ displayed on thee chess board.
                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                                 class GamePosition:
-                                                    )
+                                                        def __init__(self,board,player,castling_rights,EnP_Target,HMC,history = {}):
+                                                            )
