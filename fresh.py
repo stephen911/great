@@ -87,4 +87,8 @@
                         ~ selected and played from the list of suggested moves wihtout searching if the AI
                         ~ finds itself confronting a such a board postion. Note that this opening book was
                         ~ recorded by myself and so it does not have many positions stored in it.
-                        
+                        ~
+                        ~ In order to traverse the search tree as above, the AI needs to know how to evaluate the
+                        ~ board at any position to decide if white or black has the advantage. My evaluation
+                        ~ function currently looks at three main things when evaluating the board:
+                            
