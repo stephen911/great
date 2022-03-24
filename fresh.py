@@ -82,4 +82,5 @@
                         ~ the positions. This way, repeated positions can have their evaluations looked up
                         ~ fairly quickly, as the board state is hashed.
                         ~ 3. Opening Book - The opening book is again a dictionary that stores board
+                        ~ positions often seen in the beginning few moves in chess. Appropraite moves that
                         
