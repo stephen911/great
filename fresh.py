@@ -244,4 +244,5 @@
                                                                 ~Normally, algebraic notation is used to specify a box on a chess board. In this
                                                                 ~program, coordinates will be index referecnes to the 2_D array that stores the
                                                                 ~state of the board. Thus, e4 in algebraic notation would be expressed as (4,4)
-                                                                )
+                                                                )~in this program.
+                                                                
