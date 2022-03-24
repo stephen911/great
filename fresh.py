@@ -190,4 +190,5 @@
                                                         ~    a) Material for white and black. Each piece has a value and the more pieces you have,
                                                         ~        the better off your position is likely to be. For example, if white has an extra
                                                         ~        queen, it has an advantage over black.
+                                                        ~    b) Piece-square table values - for each piece, there is a table that stores the best
                                                         
