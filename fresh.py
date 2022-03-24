@@ -166,4 +166,5 @@
                                         ~Class Definitions:
                                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                             ~There are three classes used in this program:
+                                                ~ 1. GamePosition - This class stores a chess position. A chess position constitutes several
                                                 )
