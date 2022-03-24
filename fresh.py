@@ -195,4 +195,5 @@
                                                         ~        good square that controls the centre of the board, whereas black has a knight
                                                         ~        at the corner of the board, the situation is evaluated as being more favourable
                                                         ~        for white.
+                                                        ~    c) Reduction in points for doubled pawns, isolated pawns, and blocked pawns. If any
                                                         
