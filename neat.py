@@ -35,6 +35,8 @@
 
 ~Ensure that Pygame is installed
 
+~GUI inspired by:
+~https://en.lichess.org/
 
 
 """
