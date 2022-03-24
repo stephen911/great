@@ -182,4 +182,6 @@
                                                     ~ can be played at such positions is stored in the dictionary. A random move is
                                                     ~ selected and played from the list of suggested moves wihtout searching if the AI
                                                     ~ finds itself confronting a such a board postion. Note that this opening book was
+                                                    ~ recorded by myself and so it does not have many positions stored in it.
+                                                    ~
                                                     
