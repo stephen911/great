@@ -76,4 +76,5 @@
                         ~ one another. White plays what is best for it and black plays what is best for it,
                         ~ so it would make sense for white to ignore any portion of the tree where black
                         ~ has a clear upperhand that it can choose to play.
+                        ~ 2. Transposition table: Often, two different pathways in a search tree can result
                         
