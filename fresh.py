@@ -175,4 +175,5 @@
                                                 ~ the squares to which a piece may move, the square that is currently selected, etc. The class
                                                 ~ stores a reference to the image that the instance of the class should display when needed. It
                                                 ~ also stores the coordinates at which the shade would be applied.
+                                                ~ 3. Piece - This is also used for GUI. A Piece object stores the information about the image
                                                 )
