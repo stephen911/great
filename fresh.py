@@ -78,4 +78,5 @@
                         ~ has a clear upperhand that it can choose to play.
                         ~ 2. Transposition table: Often, two different pathways in a search tree can result
                         ~ in the same board being evaluated. Instead of evaluating the same board several
+                        ~ times, the program stores a table of values in a dictionary where the keys are
                         
