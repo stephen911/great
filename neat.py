@@ -59,6 +59,7 @@
 ~
 ~ The GUI takes the current state and displays it on the screen. The GUI allows
 ~ drag and drop movement of pieces as well as click-click movement.
+~
 
 
 """
