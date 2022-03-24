@@ -231,4 +231,5 @@
                                                             ~ for the AI but it doesn't know that). Other aspects include king safety, pawn structure,
                                                             ~ etc. It could also use different evaluation for each game phase. For example, a pawn is
                                                             ~ not worth much at the opening phase of the game but in the endgame it is very important
+                                                            ~ and so should be evaulated as a valuable piece.
                                                             )
