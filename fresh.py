@@ -115,4 +115,6 @@
                                 ~ this is that it may be mathematically shown that this does not dignificantly increase
                                 ~ computation and allows the A.I. to make its best move if it needs to abide by a
                                 ~ time limit.
+                                ~ 3. Better data structure - I believe the structure I have used to keep the state of
+                                ~ the board (list of a list) may be slowing down accessing its elements or assigning
                                 
