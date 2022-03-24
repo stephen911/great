@@ -141,4 +141,7 @@
                                 ~ because such checkmates, despite being simple, require a large number of combination of
                                 ~ moves to occur, the depth of which my AI would not be able to see. So endgame table allows
                                 ~ it to know (for a very large number of endgame positions) the best move to play in order
+                                ~ to attempt a win or a draw (or try its best to avoid a loss).
+                                
+                                
                                 )
