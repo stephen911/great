@@ -192,4 +192,5 @@
                                                         ~        queen, it has an advantage over black.
                                                         ~    b) Piece-square table values - for each piece, there is a table that stores the best
                                                         ~        squares that the particular piece should occupy. So if white has a knight at a
+                                                        ~        good square that controls the centre of the board, whereas black has a knight
                                                         
