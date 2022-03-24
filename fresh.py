@@ -181,4 +181,5 @@
                                                     ~ positions often seen in the beginning few moves in chess. Appropraite moves that
                                                     ~ can be played at such positions is stored in the dictionary. A random move is
                                                     ~ selected and played from the list of suggested moves wihtout searching if the AI
+                                                    ~ finds itself confronting a such a board postion. Note that this opening book was
                                                     
