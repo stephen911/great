@@ -181,4 +181,8 @@
                                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                                 class GamePosition:
                                                         def __init__(self,board,player,castling_rights,EnP_Target,HMC,history = {}):
-                                                            )
+                                                                    self.board = board ~A 2D array containing information about piece postitions. Check main
+                                                                            ~function to see an example of such a representation.
+                                                                                    self.player = player ~Stores the side to move. If white to play, equals 0. If black to
+                                                                                            ~play, stores 1.
+                                                                                            )
